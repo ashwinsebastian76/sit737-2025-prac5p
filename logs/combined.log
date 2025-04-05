@@ -1,0 +1,16 @@
+{"level":"error","message":"value1 and value2 must be numbers","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 10 add 5","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 10 add 5","service":"calculator-microservice"}
+{"level":"error","message":"value1 and value2 must be numbers","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 10 add 5","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 5 add 4","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 5 add 4","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 5 add 4","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 5 add 4","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 5 add 4","service":"calculator-microservice"}
+{"level":"error","message":"value1 and value2 must be numbers","service":"calculator-microservice"}
+{"level":"info","message":"New subtract operation requested: 8 subtract 4","service":"calculator-microservice"}
+{"level":"info","message":"New multiply operation requested: 3 multiply 4","service":"calculator-microservice"}
+{"level":"info","message":"New divide operation requested: 8 divide 2","service":"calculator-microservice"}
+{"level":"error","message":"value1 and value2 must be numbers","service":"calculator-microservice"}
+{"level":"error","message":"Division by zero error","service":"calculator-microservice"}
